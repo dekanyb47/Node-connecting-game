@@ -1,5 +1,3 @@
-
-
 import tkinter as tk
 
 
@@ -351,3 +349,4 @@ if __name__ == "__main__":
     root.config(bg="black")
     game = Game(root, CANVAS_WIDTH, CANVAS_HEIGHT)
     root.mainloop()
+    
