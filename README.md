@@ -2,8 +2,8 @@
 Simple game where the objective is to connect all the nodes without any of the obstacles or the lines intersecting. The program is **incomplete**, but its foundations are finished.
 
 ## Controls:
-- **Left click** to select nodes\n
-- **Right click** to clear all inputs made during the level.\n
+- **Left click** to select nodes
+- **Right click** to clear all inputs made during the level.
 - **F** to toggle fullscreen mode
 
 ## Features:
